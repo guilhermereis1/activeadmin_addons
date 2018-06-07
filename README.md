@@ -223,10 +223,10 @@ If you want to collaborate, please check [the rules](docs/CONTRIBUTING.md) first
 
 Thank you [contributors](https://github.com/platanus/activeadmin_addons/graphs/contributors)!
 
-<img src="http://platan.us/gravatar_with_text.png" alt="Platanus" width="250"/>
+<img src="https://avatars1.githubusercontent.com/u/23090707?s=400&u=acfb62d689e4141440b7ef56add07322352be493&v=4" alt="Guilherme Reis" width="250"/>
 
-activeadmin_addons is maintained by [platanus](http://platan.us).
+activeadmin_addons is maintained by [guilhermereis1](https://github.com/guilhermereis1).
 
 ## License
 
-ActiveAdminAddons is © 2016 Platanus, spa. It is free software and may be redistributed under the terms specified in the LICENSE file.
+ActiveAdminAddons is © 2018 Guilherme Reis. It is free software and may be redistributed under the terms specified in the LICENSE file.
