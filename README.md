@@ -221,7 +221,7 @@ If you want to collaborate, please check [the rules](docs/CONTRIBUTING.md) first
 
 ## Credits
 
-Thank you [contributors](https://github.com/platanus/activeadmin_addons/graphs/contributors)!
+Thank you [contributors](https://github.com/guilhermereis1)!
 
 <img src="https://avatars1.githubusercontent.com/u/23090707?s=400&u=acfb62d689e4141440b7ef56add07322352be493&v=4" alt="Guilherme Reis" width="250"/>
 
